@@ -1,0 +1,7 @@
+{"timestamp": "2026-10-07T10:00:00+03:00", "level": "INFO", "source": "web", "message": "Сервер запущен"}
+{"timestamp": "2026-10-07T10:01:00+03:00", "level": "ERROR", "source": "web", "message": "500 Internal Server Error"}
+{"timestamp": "2026-10-07T07:02:00Z", "level": "ERROR", "source": "платежи", "message": "Отказ банка"}
+{"timestamp": "2026-10-07T10:03:00+03:00", "level": "CRITICAL", "source": "платежи", "message": "Шлюз упал"}
+
+{"timestamp": "2026-10-07T10:04:00+03:00", "level": "WARNING", "source": "cache", "message": "Промах кэша"}
+{"timestamp": "2026-10-07T10:05:00+03:00", "level": "ERROR", "source": "queue", "message": "Очередь переполнена"}
